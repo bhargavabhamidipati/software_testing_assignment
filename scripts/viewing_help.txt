@@ -1,0 +1,15 @@
+//setup
+Call "scripts/login.txt"
+//test
+Click "{ImageFolder}/1644715196625.png" 52 51
+Sleep 1000
+
+Click "{ImageFolder}/1644596628435.png" 22 47
+
+Click "{ImageFolder}/1644596661341.png" 26 73
+Sleep 500
+Click "{ImageFolder}/1644596763151.png" 90 54
+
+
+//teardown
+Call "scripts/log_out.txt"

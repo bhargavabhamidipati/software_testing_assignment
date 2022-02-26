@@ -1,0 +1,25 @@
+//setup
+Call "scripts/login.txt"
+//test
+Click "{ImageFolder}/1644432674862.png"
+Sleep 1000
+Type "softwaretestingbth@gmail.com"
+Sleep 500
+Click "{ImageFolder}/1644496039236.png" 18 37
+
+
+Sleep 500
+
+Type "testing..."
+Click "{ImageFolder}/1644433546063.png" 29 59
+
+Type "this is a scheduled mail"
+Click "{ImageFolder}/1644501579535.png" 85 52
+Click "{ImageFolder}/1644501649360.png"
+Click "{ImageFolder}/1644501736839.png"
+//teardown
+Call "scripts/log_out.txt"
+
+
+
+

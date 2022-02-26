@@ -1,0 +1,3 @@
+// test
+Call "scripts/login.txt"
+Call "scripts/log_out.txt"

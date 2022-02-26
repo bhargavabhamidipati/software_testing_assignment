@@ -1,0 +1,17 @@
+StartWeb "https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+Sleep 500
+Click "{ImageFolder}/1644495567548.png"
+Click "{ImageFolder}/1644428905832.png" 7 50
+
+Type "softwaretestingbth@gmail.com"
+Sleep 1000
+Click "{ImageFolder}/1644428529239.png"
+Sleep 1000
+Type "testingcourse@123"
+Sleep 1000
+Click "{ImageFolder}/1644428529239.png"
+Click "{ImageFolder}/1644429668983.png"
+
+Click "{ImageFolder}/1644429380383.png"
+
+

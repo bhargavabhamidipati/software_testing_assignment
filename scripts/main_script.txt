@@ -1,0 +1,44 @@
+// begin
+// testcase 1
+Call "scripts/login_logout.txt"
+Sleep 500
+
+// testcase 2
+Call "scripts/send_mail.txt"
+Sleep 500
+
+//testcase 3
+Call "scripts/delete_mail.txt"
+Sleep 500
+
+//testcase 4
+Call "scripts/edit_draft_mail.txt"
+Sleep 500
+
+//testcase 5
+Call "scripts/search mail.txt"
+Sleep 500
+
+// testcase 6
+Call "scripts/filter_search.txt"
+Sleep 500
+
+// testcase 7
+Call "scripts/undo_mail.txt"
+Sleep 500
+
+// testcase 8
+Call "scripts/scheduling.txt"
+Sleep 500
+
+// testcase 9
+Call "scripts/cancel_scheduling.txt"
+Sleep 500
+
+// testcase 10
+Call "scripts/viewing_help.txt"
+Sleep 500
+
+// testcase 11
+Call "scripts/staring_mail.txt"
+// -----close
